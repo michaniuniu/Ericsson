@@ -1,2 +1,2 @@
 # Ericsson
-Task
+Zadanie z drugiego etapu rozmowy kwalifikacyjnej
